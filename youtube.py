@@ -1,7 +1,7 @@
 from disnake import Webhook
 import aiohttp
 import asyncio
-from bs4 import BeautifulSoup
+from bs4 import 
 import aiosqlite
 from fake_useragent import UserAgent
 ## note: need to use `poetry shell` in order to access lxml
